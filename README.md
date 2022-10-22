@@ -59,7 +59,7 @@
 [youtube]: https://www.youtube.com/watch?v=VptAMVgpbP8
 [linkedin]: https://www.linkedin.com/in/anatolii-shcherbak/
 [instagram]: https://www.instagram.com/corvaxv/
-[Tg]: https://web.telegram.org/?legacy=1#/im
+[Tg]: https://t.me/S_Anatoliy_V4
 
 
 
