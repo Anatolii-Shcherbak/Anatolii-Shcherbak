@@ -4,7 +4,6 @@
 - ?? I like to write code
 - ?? I love to paint and play the guitar
 - ?? I am constantly learning new things
-- ? I love writing an article for https://webtricks-master.ru/
 - ???? I like to shoot videos for youtube 
 
 ### Connect with me:
@@ -58,7 +57,7 @@
 
 [youtube]: https://www.youtube.com/watch?v=VptAMVgpbP8
 [linkedin]: https://www.linkedin.com/in/anatolii-shcherbak/
-[instagram]: https://www.instagram.com/corvaxv/
+[instagram]: https://www.instagram.com/s_a_vdeveloper/
 [Tg]: https://t.me/S_Anatoliy_V4
 
 
