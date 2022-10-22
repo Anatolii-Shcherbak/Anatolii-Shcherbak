@@ -56,7 +56,7 @@
 </details>
 
 
-[youtube]: https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA
+[youtube]: https://www.youtube.com/watch?v=VptAMVgpbP8
 [linkedin]: https://www.linkedin.com/in/vlad-kalachev-ab87b312a/
 [instagram]: https://www.instagram.com/corvaxv/
 [vk]: https://vk.com/vladislavkalachov
