@@ -35,14 +35,6 @@
 - [My Chanel](https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA)
 <!-- YOUTUBE:END -->
 
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatolii-Shcherbak_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Anatolii-Shcherbak&show_icons=true" />
-</details>
-
-
 [youtube]: https://www.youtube.com/watch?v=VptAMVgpbP8
 [linkedin]: https://www.linkedin.com/in/anatolii-shcherbak/
 [instagram]: https://www.instagram.com/s_a_vdeveloper/
