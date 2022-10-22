@@ -1,7 +1,5 @@
 ### Hi there 👋 I am Anatolii 
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
-
 ## I'm an It Student
 - ?? I like to write code
 - ?? I love to paint and play the guitar
