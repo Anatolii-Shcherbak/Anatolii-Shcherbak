@@ -1,7 +1,4 @@
 ### Hi there 👋 I am Anatolii 
-### Hi there ?? I am Anatolii 
-
-
 
 ![](https://komarev.com/ghpvc/?username=VladKalachev)
 
