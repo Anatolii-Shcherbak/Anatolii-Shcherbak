@@ -33,7 +33,7 @@
 
 ### My Portfolio Video Example:
 <!-- YOUTUBE:START -->
-[![My Chanel](https://drive.google.com/file/d/11fOkHr9TtoyEAHQU8IXY6J54iRKhDjL1/view?usp=sharing)](https://www.youtube.com/watch?v=VptAMVgpbP8)
+[![My Chanel](https://drive.google.com/file/d/11fOkHr9TtoyEAHQU8IXY6J54iRKhDjL1/view)](https://www.youtube.com/watch?v=VptAMVgpbP8)
 <!-- YOUTUBE:END -->
 
 
