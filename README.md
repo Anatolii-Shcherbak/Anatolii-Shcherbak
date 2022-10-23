@@ -30,24 +30,11 @@
 <br />
 <br />
 <br />
-<!DOCTYPE html>
-<html>
- <head>
-  <meta charset="utf-8">
-  <title>video</title>
- </head>
- <body>
-  <video width="400" height="300" controls="controls" poster="video/duel.jpg">
-   <source src="https://www.youtube.com/watch?v=VptAMVgpbP8" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
-   Тег video не поддерживается вашим браузером. 
-   <a href="video/duel.mp4">Скачайте видео</a>.
-  </video>
- </body>
-</html>
+
 
 ### My YouTube Videos:
 <!-- YOUTUBE:START -->
-- [My Chanel](https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA)
+- [[My Chanel](https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA)](https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA)
 <!-- YOUTUBE:END -->
 
 [youtube]: https://www.youtube.com/watch?v=VptAMVgpbP8
