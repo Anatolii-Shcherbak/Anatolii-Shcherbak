@@ -31,7 +31,8 @@
 <br />
 <br />
 <video>
- <source src="https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA">
+ <source src="https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+
 </video>
 
 ### My YouTube Videos:
