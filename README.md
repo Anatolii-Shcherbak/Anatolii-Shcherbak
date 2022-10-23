@@ -17,13 +17,13 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="React" width="26px" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png" />
-<img align="left" alt="HTML5" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
-<img align="left" alt="CSS3" width="26px" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" />
-<img align="left" alt="Sass" width="26px" src="https://seeklogo.com/images/U/unity-logo-F9E960A5C5-seeklogo.com.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Java" width="26px" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png" />
+<img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
+<img align="left" alt="C++" width="26px" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" />
+<img align="left" alt="Unity" width="26px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" />
+<img align="left" alt="notepad" width="26px" src="https://seeklogo.com/vector-logo/431744/notepad" />
+<img align="left" alt="office" width="26px" src="https://seeklogo.com/images/M/microsoft-office-logo-8B0EF31E09-seeklogo.com.png" />
 
 
 <br />
