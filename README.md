@@ -33,7 +33,7 @@
 
 ### My Portfolio Video Example:
 <!-- YOUTUBE:START -->
-[![My Chanel](https://raw.githubusercontent.com/Anatolii-Shcherbak/resources/main/Img/photo_2022-10-23_22-19-30.jpg, "Click to see Video")](https://www.youtube.com/watch?v=VptAMVgpbP8)
+[![My Chanel](https://raw.githubusercontent.com/Anatolii-Shcherbak/resources/main/Img/photo_2022-10-23_22-19-30.jpg)](https://www.youtube.com/watch?v=VptAMVgpbP8)
 <!-- YOUTUBE:END -->
 
 
