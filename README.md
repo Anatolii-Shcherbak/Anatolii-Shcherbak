@@ -34,7 +34,7 @@
 
 ### My YouTube Videos:
 <!-- YOUTUBE:START -->
-- [My Chanel](https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA)
+(https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA)
 <!-- YOUTUBE:END -->
 
 [youtube]: https://www.youtube.com/watch?v=VptAMVgpbP8
