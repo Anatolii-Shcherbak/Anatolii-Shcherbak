@@ -31,7 +31,8 @@
 <br />
 <br />
 
-![Illustration to use for new users](https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA)_
+
+<video>https://www.youtube.com/watch?v=VptAMVgpbP8</video>
 
 ### My YouTube Videos:
 <!-- YOUTUBE:START -->
