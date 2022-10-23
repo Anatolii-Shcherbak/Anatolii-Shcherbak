@@ -34,10 +34,10 @@
 
 ### My YouTube Videos:
 <!-- YOUTUBE:START -->
-- [![My Chanel](https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA)](https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA)
+- [![My Chanel](https://www.youtube.com/watch?v=VptAMVgpbP8)](https://www.youtube.com/watch?v=VptAMVgpbP8)
 <!-- YOUTUBE:END -->
 
-[youtube]: https://www.youtube.com/watch?v=VptAMVgpbP8
+[youtube]: https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA)](https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA
 [linkedin]: https://www.linkedin.com/in/anatolii-shcherbak/
 [instagram]: https://www.instagram.com/s_a_vdeveloper/
 [Tg]: https://t.me/S_Anatoliy_V4
