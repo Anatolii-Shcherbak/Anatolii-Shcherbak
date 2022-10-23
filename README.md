@@ -18,7 +18,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Java" height ="64px" width="46px" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png" />
-<img align="left" alt="office" width="48px" src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" />
+<img align="left" alt="office" width="52px" src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" />
 <img align="left" alt="C#" width="52px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" alt="C++" width="52px" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" />
 <img align="left" alt="Unity" width="52px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" />
