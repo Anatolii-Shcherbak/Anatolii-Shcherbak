@@ -38,9 +38,7 @@
  </head>
  <body>
   <video width="400" height="300" controls="controls" poster="video/duel.jpg">
-   <source src="video/duel.ogv" type='video/ogg; codecs="theora, vorbis"'>
-   <source src="video/duel.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
-   <source src="video/duel.webm" type='video/webm; codecs="vp8, vorbis"'>
+   <source src="https://www.youtube.com/watch?v=VptAMVgpbP8" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
    Тег video не поддерживается вашим браузером. 
    <a href="video/duel.mp4">Скачайте видео</a>.
   </video>
