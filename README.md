@@ -32,7 +32,9 @@
 <br />
 
 
-<video>https://www.youtube.com/watch?v=VptAMVgpbP8</video>
+<video>https://www.youtube.com/watch?v=VptAMVgpbP8&t=9s</video>
+
+<oembed>https://www.youtube.com/watch?v=VptAMVgpbP8&t=9s</oembed>
 
 ### My YouTube Videos:
 <!-- YOUTUBE:START -->
