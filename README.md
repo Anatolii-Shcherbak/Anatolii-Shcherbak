@@ -22,7 +22,7 @@
 <img align="left" alt="C++" width="26px" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" />
 <img align="left" alt="Unity" width="26px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" />
-<img align="left" alt="notepad" width="26px" src="[https://seeklogo.com/vector-logo/431744/notepad](https://seeklogo.com/images/N/notepad-logo-B36F48AC8C-seeklogo.com.png?v=637818386570000000)" />
+<img align="left" alt="notepad" width="26px" src="https://seeklogo.com/images/N/notepad-logo-B36F48AC8C-seeklogo.com.png?v=637818386570000000" />
 <img align="left" alt="office" width="26px" src="https://seeklogo.com/images/M/microsoft-office-logo-8B0EF31E09-seeklogo.com.png" />
 
 
