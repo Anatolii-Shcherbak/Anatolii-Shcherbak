@@ -37,6 +37,9 @@
 ### (To see full viedo in YouTube click on any of gifs)
 <!-- YOUTUBE:START -->
 [![My Chanel](https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/GifDe.gif)](https://www.youtube.com/watch?v=VptAMVgpbP8)
+<br />
+[CardGameRepository](https://github.com/Anatolii-Shcherbak/UnityCardGame)
+<br />
 [![My Chanel](https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/TextG.gif)](https://www.youtube.com/watch?v=VptAMVgpbP8)
 
 [![My Chanel](https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/MyGame.gif)](https://www.youtube.com/watch?v=VptAMVgpbP8)
