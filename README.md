@@ -6,10 +6,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Anatolii Shcherbak | YouTube" width="22px" src="https://seeklogo.com/images/Y/youtube-icon-logo-05A29977FC-seeklogo.com.png"/>][youtube]
-[<img align="left" alt="Anatolii Shcherbak | LinkedIn" width="22px" src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" />][linkedin]
-[<img align="left" alt="Anatolii Shcherbak | Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" />][instagram]
-[<img align="left" alt="Anatolii Shcherbak | TG" width="22px" src="https://seeklogo.com/images/T/telegram-logo-52EACC2D94-seeklogo.com.png" />][Tg]
+[<img align="left" alt="Anatolii Shcherbak | YouTube" width="34px" src="https://seeklogo.com/images/Y/youtube-icon-logo-05A29977FC-seeklogo.com.png"/>][youtube]
+[<img align="left" alt="Anatolii Shcherbak | LinkedIn" width="34px" src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" />][linkedin]
+[<img align="left" alt="Anatolii Shcherbak | Instagram" width="34px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" />][instagram]
+[<img align="left" alt="Anatolii Shcherbak | TG" width="34px" src="https://seeklogo.com/images/T/telegram-logo-52EACC2D94-seeklogo.com.png" />][Tg]
 
 <br />
 
