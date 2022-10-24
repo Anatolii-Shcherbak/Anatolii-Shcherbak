@@ -42,7 +42,10 @@
 <br />
 <br />
 [![My Chanel](https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/TextG.gif)](https://www.youtube.com/watch?v=VptAMVgpbP8)
-
+<br />
+[TextGameRepository](https://github.com/Anatolii-Shcherbak/TextAdvantureGame)
+<br />
+<br />
 [![My Chanel](https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/MyGame.gif)](https://www.youtube.com/watch?v=VptAMVgpbP8)
 [![My Chanel](https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Snake.gif)](https://www.youtube.com/watch?v=VptAMVgpbP8)
 <br />
