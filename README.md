@@ -1,10 +1,8 @@
-### Hi there 👋 I am Anatolii 
+### Welcome to my Portfolio Profile 🎩
 
-## I'm an It Student
-- ?? I like to write code
-- ?? I love to paint and play the guitar
-- ?? I am constantly learning new things
-- ???? I like to shoot videos for youtube 
+##🎮 I'm Shcherbak Anatolii an It Student 🎮 
+- 📖 I love study everything new 🚀
+- :octocat:I'm into computer games. I really love feelings of freedom and exploring that I can earn from them. So it's my dream to be a part of creators that games.🎇
 
 ### Connect with me:
 
