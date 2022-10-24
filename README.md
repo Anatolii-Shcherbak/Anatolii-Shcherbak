@@ -42,7 +42,7 @@
 [![My Chanel](https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/MyGame.gif)](https://www.youtube.com/watch?v=VptAMVgpbP8)
 [![My Chanel](https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Snake.gif)](https://www.youtube.com/watch?v=VptAMVgpbP8)
 <br />
-[SnakeGameReprisitory](https://github.com/Anatolii-Shcherbak/Snake-Java-Game)
+[SnakeGameRepository](https://github.com/Anatolii-Shcherbak/Snake-Java-Game)
 <!-- YOUTUBE:END -->
 
 
