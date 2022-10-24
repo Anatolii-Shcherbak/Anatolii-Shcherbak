@@ -38,9 +38,11 @@
 <!-- YOUTUBE:START -->
 [![My Chanel](https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/GifDe.gif)](https://www.youtube.com/watch?v=VptAMVgpbP8)
 [![My Chanel](https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/TextG.gif)](https://www.youtube.com/watch?v=VptAMVgpbP8)
-[SnakeGameReprisitory](https://github.com/Anatolii-Shcherbak/Snake-Java-Game)
+
 [![My Chanel](https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/MyGame.gif)](https://www.youtube.com/watch?v=VptAMVgpbP8)
 [![My Chanel](https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Snake.gif)](https://www.youtube.com/watch?v=VptAMVgpbP8)
+<br />
+[SnakeGameReprisitory](https://github.com/Anatolii-Shcherbak/Snake-Java-Game)
 <!-- YOUTUBE:END -->
 
 
