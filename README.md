@@ -12,6 +12,7 @@
     <span>YouTube</span>
   </a>
   &nbsp;&nbsp;&nbsp;
+  <br>
   <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
     <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/LI-In-Bug.png" alt="LinkedIn" height="40"/><br>
     <span>LinkedIn</span>
