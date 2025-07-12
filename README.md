@@ -35,8 +35,6 @@
   </tr>
 </table>
 
-<br>
-
 ### Languages and Tools:
 
 <table>
@@ -59,8 +57,6 @@
     </td>
   </tr>
 </table>
-
-<br />
 
 
 ### My Portfolio Video Examples:
