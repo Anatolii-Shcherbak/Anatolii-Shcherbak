@@ -14,7 +14,7 @@
 <br >
 <br >
 <br >
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Youtube]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Youtube]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Linkedin]
 <br >
 <br >
 
@@ -65,4 +65,4 @@
 [Tg]: https://t.me/S_Anatoliy_V4
 
 [Youtube]: https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA/
-
+[Linkedin]: https://www.linkedin.com/in/anatolii-shcherbak/
