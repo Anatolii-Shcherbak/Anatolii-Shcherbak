@@ -12,7 +12,7 @@
 [<img align="left"  alt="Anatolii Shcherbak | TG" width="64px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Telegram.png" />][Tg]
 <br >
 <br >
-[youtube]: https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA/
+[Youtube]
 <br >
 <br >
 
@@ -62,5 +62,5 @@
 [instagram]: https://www.instagram.com/s_a_vdeveloper/
 [Tg]: https://t.me/S_Anatoliy_V4
 
-
+[Youtube]: https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA/
 
