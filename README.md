@@ -45,15 +45,15 @@
     </td>
     <td align="center">
         <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/c-sharp.png" height="60"/><br>
-        <sub><b>C#</b></sub>
+         <span style="font-size:16px;"><b>>C#</b></span>
     </td>
     <td align="center">
         <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/VS.png" height="60"/><br>
-        <sub><b>Visual Studio</b></sub>
+         <span style="font-size:16px;"><b>Visual Studio</b></span>
     </td>
     <td align="center">
         <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/KritaIm-removebg-preview.png" height="60"/><br>
-        <sub><b>Krita</b></sub>
+         <span style="font-size:16px;"><b>Krita</b></span>
     </td>
   </tr>
 </table>
