@@ -58,7 +58,6 @@
   </tr>
 </table>
 
-
 ### My Portfolio Video Examples:
 ### (To see full viedo in YouTube click on any of gifs)
 <!-- YOUTUBE:START -->
