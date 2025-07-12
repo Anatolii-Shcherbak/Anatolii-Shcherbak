@@ -2,7 +2,7 @@
 
 🎮 I'm Shcherbak Anatolii an It Student 🎮 
 - 📖 I love study everything new 🚀
-- :octocat:I'm into computer games. I really love feelings of freedom and exploring that I can earn from them. So it's my dream to be a part of creators that games.🎇
+- :octocat:I'm into computer games. I really love feelings of freedom and exploring that I can earn from them. So it's my dream to be a part of creaton of thoose games.🎇
 
 ### Connect with me:
 
