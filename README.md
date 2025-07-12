@@ -12,6 +12,10 @@
 [<img align="left"  alt="Anatolii Shcherbak | TG" width="64px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Telegram.png" />][Tg]
 <br >
 <br >
+[youtube]: https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA/
+<br >
+<br >
+
 ### Languages and Tools:
 
 <img align="left" alt="Java" height ="64px" width="46px" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png" />
