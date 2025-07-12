@@ -36,6 +36,7 @@
 </table>
 
 <br>
+<br>
 
 ### Languages and Tools:
 
@@ -61,8 +62,7 @@
 </table>
 
 <br />
-<br />
-<br />
+
 
 ### My Portfolio Video Examples:
 ### (To see full viedo in YouTube click on any of gifs)
