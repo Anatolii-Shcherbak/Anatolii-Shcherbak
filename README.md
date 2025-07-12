@@ -9,25 +9,25 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.youtube.com/@YourChannelName" target="_blank">
+      <a href="https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA/" target="_blank">
         <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/yt_logo_rgb_dark.png" height="40"/><br>
         <sub><b>YouTube</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+      <a href="https://www.linkedin.com/in/anatolii-shcherbak/" target="_blank">
         <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/LI-In-Bug.png" height="40"/><br>
         <sub><b>LinkedIn</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/yourprofile/" target="_blank">
+      <a href="https://www.instagram.com/s_a_vdeveloper/" target="_blank">
         <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Inst.png" height="40"/><br>
         <sub><b>Instagram</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://t.me/yourusername" target="_blank">
+      <a href="https://t.me/S_Anatoliy_V4" target="_blank">
         <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Telegram.png" height="40"/><br>
         <sub><b>Telegram</b></sub>
       </a>
@@ -36,11 +36,6 @@
 </table>
 
 
-[<img align="left"   alt="Anatolii Shcherbak | YouTube" width="64px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/yt_logo_rgb_dark.png"/>][youtube][Youtube]
-[<img align="left"   alt="Anatolii Shcherbak | LinkedIn" width="64px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/LI-In-Bug.png"/>][linkedin][Linkedin]
-[<img align="left"   alt="Anatolii Shcherbak | Instagram" width="64px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Inst.png" />][instagram][Instagram]
-[<img align="left"  alt="Anatolii Shcherbak | TG" width="64px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Telegram.png" />][Tg][Telegram]
-<br >
 <br >
 
 ### Languages and Tools:
@@ -88,8 +83,3 @@
 [linkedin]: https://www.linkedin.com/in/anatolii-shcherbak/
 [instagram]: https://www.instagram.com/s_a_vdeveloper/
 [Tg]: https://t.me/S_Anatoliy_V4
-
-[Youtube]: https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA/
-[Linkedin]: https://www.linkedin.com/in/anatolii-shcherbak/
-[Instagram]:  https://www.instagram.com/s_a_vdeveloper/
-[Telegram]: https://t.me/S_Anatoliy_V4
