@@ -10,11 +10,11 @@
 [<img align="left"   alt="Anatolii Shcherbak | LinkedIn" width="64px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/LI-In-Bug.png"/>][linkedin]
 [<img align="left"   alt="Anatolii Shcherbak | Instagram" width="64px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Inst.png" />][instagram]
 [<img align="left"  alt="Anatolii Shcherbak | TG" width="64px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Telegram.png" />][Tg]
-<br />
+<br >
 
-<br />
+<br>
 [youtube]
-<br />
+<br >
 ### Languages and Tools:
 
 <img align="left" alt="Java" height ="64px" width="46px" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png" />
