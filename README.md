@@ -40,19 +40,19 @@
 <table>
   <tr>
     <td align="center">
-        <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/UnityWhite.png" height="40"/><br>
+        <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/UnityWhite.png" height="60"/><br>
         <sub><b>Unity</b></sub>
     </td>
     <td align="center">
-        <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/c-sharp.png" height="40"/><br>
+        <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/c-sharp.png" height="60"/><br>
         <sub><b>C#</b></sub>
     </td>
     <td align="center">
-        <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/VS.png" height="40"/><br>
+        <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/VS.png" height="60"/><br>
         <sub><b>Visual Studio</b></sub>
     </td>
     <td align="center">
-        <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/KritaIm-removebg-preview.png" height="40"/><br>
+        <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/KritaIm-removebg-preview.png" height="60"/><br>
         <sub><b>Krita</b></sub>
     </td>
   </tr>
