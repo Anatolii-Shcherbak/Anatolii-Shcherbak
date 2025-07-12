@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left"   alt="Anatolii Shcherbak | YouTube" width="178px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/yt_logo_rgb_dark.png"/>][youtube]
+[<img align="left"   alt="Anatolii Shcherbak | YouTube" width="178px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/yt_logo_rgb_dark.png"/>] <span>YouTube</span>
 [<img align="left"   alt="Anatolii Shcherbak | LinkedIn" width="64px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/LI-In-Bug.png"/>][linkedin]
 [<img align="left"   alt="Anatolii Shcherbak | Instagram" width="64px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Inst.png" />][instagram]
 [<img align="left"  alt="Anatolii Shcherbak | TG" width="64px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Telegram.png" />][Tg]
