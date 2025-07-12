@@ -6,8 +6,30 @@
 
 ### Connect with me:
 
-[<img align="left"   alt="Anatolii Shcherbak | YouTube" width="64px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/yt_logo_rgb_dark.png"/>][youtube]<br>[Youtube]
-[<img align="left"   alt="Anatolii Shcherbak | LinkedIn" width="64px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/LI-In-Bug.png"/>][linkedin]<br>[Linkedin]
+<p align="left">
+  <a href="https://www.youtube.com/@YourChannelName" target="_blank">
+    <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/yt_logo_rgb_dark.png" alt="YouTube" height="40"/><br>
+    <span>YouTube</span>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+    <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/LI-In-Bug.png" alt="LinkedIn" height="40"/><br>
+    <span>LinkedIn</span>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/yourprofile/" target="_blank">
+    <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Inst.png" alt="Instagram" height="40"/><br>
+    <span>Instagram</span>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/yourusername" target="_blank">
+    <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Telegram.png" alt="Telegram" height="40"/><br>
+    <span>Telegram</span>
+  </a>
+</p>
+
+[<img align="left"   alt="Anatolii Shcherbak | YouTube" width="64px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/yt_logo_rgb_dark.png"/>][youtube][Youtube]
+[<img align="left"   alt="Anatolii Shcherbak | LinkedIn" width="64px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/LI-In-Bug.png"/>][linkedin][Linkedin]
 [<img align="left"   alt="Anatolii Shcherbak | Instagram" width="64px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Inst.png" />][instagram][Instagram]
 [<img align="left"  alt="Anatolii Shcherbak | TG" width="64px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Telegram.png" />][Tg][Telegram]
 <br >
