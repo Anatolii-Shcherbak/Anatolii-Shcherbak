@@ -16,19 +16,19 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/anatolii-shcherbak/" target="_blank">
-        <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/LI-In-Bug.png" height="40"/><br>
+        <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/LI-In-Bug.png" height="60"/><br>
         <sub><b>LinkedIn</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://www.instagram.com/s_a_vdeveloper/" target="_blank">
-        <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Inst.png" height="40"/><br>
+        <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Inst.png" height="60"/><br>
         <sub><b>Instagram</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://t.me/S_Anatoliy_V4" target="_blank">
-        <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Telegram.png" height="40"/><br>
+        <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Telegram.png" height="60"/><br>
         <sub><b>Telegram</b></sub>
       </a>
     </td>
