@@ -35,6 +35,8 @@
   </tr>
 </table>
 
+<br>
+
 ### Languages and Tools:
 
 <table>
