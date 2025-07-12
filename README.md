@@ -45,7 +45,7 @@
     </td>
     <td align="center">
         <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/c-sharp.png" height="60"/><br>
-         <span style="font-size:16px;"><b>>C#</b></span>
+         <span style="font-size:16px;"><b>C#</b></span>
     </td>
     <td align="center">
         <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/VS.png" height="60"/><br>
