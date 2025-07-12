@@ -11,10 +11,6 @@
 [<img align="left"   alt="Anatolii Shcherbak | Instagram" width="64px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Inst.png" />][instagram]
 [<img align="left"  alt="Anatolii Shcherbak | TG" width="64px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Telegram.png" />][Tg]
 <br >
-
-<br>
-     [youtube]  [Linkendin]
-<br >
 <br >
 ### Languages and Tools:
 
