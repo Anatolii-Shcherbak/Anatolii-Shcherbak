@@ -41,7 +41,7 @@
   <tr>
     <td align="center">
         <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/UnityWhite.png" height="60"/><br>
-        <sub><b>Unity</b></sub>
+      <span style="font-size:16px;"><b>Unity</b></span>
     </td>
     <td align="center">
         <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/c-sharp.png" height="60"/><br>
