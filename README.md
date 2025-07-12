@@ -10,7 +10,7 @@
   <tr>
     <td align="center">
       <a href="https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA/" target="_blank">
-        <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/yt_logo_rgb_dark.png" height="40"/><br>
+        <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/yt_logo_rgb_dark.png" height="60"/><br>
         <sub><b>YouTube</b></sub>
       </a>
     </td>
