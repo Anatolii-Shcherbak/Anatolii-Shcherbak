@@ -6,10 +6,10 @@
 
 ### Connect with me:
 
-[<img align="left"  width="60px" alt="Anatolii Shcherbak | YouTube" width="34px" src="https://seeklogo.com/images/Y/youtube-icon-logo-05A29977FC-seeklogo.com.png"/>][youtube]
-[<img align="left"  width="60px" alt="Anatolii Shcherbak | LinkedIn" width="34px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/LI-In-Bug"/>][linkedin]
+[<img align="left"  width="60px" alt="Anatolii Shcherbak | YouTube" width="34px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/yt_logo_rgb_dark.png"/>][youtube]
+[<img align="left"  width="60px" alt="Anatolii Shcherbak | LinkedIn" width="34px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/LI-In-Bug.png"/>][linkedin]
 [<img align="left"   width="60px" alt="Anatolii Shcherbak | Instagram" width="34px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Inst.png" />][instagram]
-[<img align="left" width="60px"  alt="Anatolii Shcherbak | TG" width="34px" src="https://seeklogo.com/images/T/telegram-logo-52EACC2D94-seeklogo.com.png" />][Tg]
+[<img align="left" width="60px"  alt="Anatolii Shcherbak | TG" width="34px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Telegram.png" />][Tg]
 
 <br />
 
