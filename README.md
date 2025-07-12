@@ -36,7 +36,6 @@
 </table>
 
 <br>
-<br>
 
 ### Languages and Tools:
 
