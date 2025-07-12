@@ -22,7 +22,7 @@
     </td>
     <td align="center">
       <a href="https://www.instagram.com/s_a_vdeveloper/" target="_blank">
-        <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Inst.png" height="60"/><br>
+        <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Inst.png" height="60"/>
         <sub><b>Instagram</b></sub>
       </a>
     </td>
