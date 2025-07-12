@@ -41,7 +41,7 @@
 <img align="left" alt="office" width="52px" src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" />
 <img align="left" alt="C#" width="52px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" alt="C++" width="52px" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" />
-<img align="left" alt="Unity" width="52px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Unity.png" />
+<img align="left" alt="Unity" width="52px" src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/UnityWhite.png" />
 <img align="left" alt="Visual Studio Code" width="60px" src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" />
 <img align="left" alt="notepad" width="60px" src="https://seeklogo.com/images/N/notepad-logo-B36F48AC8C-seeklogo.com.png" />
 <img align="left" alt="office" width="48px" src="https://seeklogo.com/images/M/microsoft-office-logo-8B0EF31E09-seeklogo.com.png" />
