@@ -14,7 +14,7 @@
 <br >
 <br >
 <br >
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Youtube]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Linkedin]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Instagram]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Youtube]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Linkedin]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Instagram]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Telegram]
 <br >
 <br >
 
@@ -67,3 +67,4 @@
 [Youtube]: https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA/
 [Linkedin]: https://www.linkedin.com/in/anatolii-shcherbak/
 [Instagram]:  https://www.instagram.com/s_a_vdeveloper/
+[Telegram]: https://t.me/S_Anatoliy_V4
