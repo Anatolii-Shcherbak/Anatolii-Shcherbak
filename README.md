@@ -35,9 +35,6 @@
   </tr>
 </table>
 
-
-<br >
-
 ### Languages and Tools:
 
 <img align="left" alt="Java" height ="64px" width="46px" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png" />
@@ -76,10 +73,3 @@
 <br />
 [![My Chanel](https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/MyGame.gif)](https://www.youtube.com/watch?v=VptAMVgpbP8)
 <!-- YOUTUBE:END -->
-
-
-
-[youtube]: https://www.youtube.com/channel/UC9Si7j82OO2PLaajrtxa9JA/
-[linkedin]: https://www.linkedin.com/in/anatolii-shcherbak/
-[instagram]: https://www.instagram.com/s_a_vdeveloper/
-[Tg]: https://t.me/S_Anatoliy_V4
