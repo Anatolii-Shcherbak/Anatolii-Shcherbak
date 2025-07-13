@@ -27,7 +27,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://t.me/S_Anatoliy_V4" target="_blank">
+      <a href="https://t.me/TorikuKun" target="_blank">
         <img src="https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Telegram.png" height="60"/><br>
         <sub><b>Telegram</b></sub>
       </a>
