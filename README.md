@@ -59,22 +59,21 @@
 </table>
 
 ### My Portfolio Video Examples:
-### (To see full viedo in YouTube click on any of gifs)
 <!-- YOUTUBE:START -->
-[![My Chanel](https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/GifDe.gif)](https://www.youtube.com/watch?v=VptAMVgpbP8)
+[![My Chanel](https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/GifDe.gif)]
 <br />
 [CardGameRepository](https://github.com/Anatolii-Shcherbak/UnityCardGame)
 <br />
 <br />
-[![My Chanel](https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/TextG.gif)](https://www.youtube.com/watch?v=VptAMVgpbP8)
+[![My Chanel](https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/TextG.gif)]
 <br />
 [TextGameRepository](https://github.com/Anatolii-Shcherbak/TextAdvantureGame)
 <br />
 <br />
-[![My Chanel](https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Snake.gif)](https://www.youtube.com/watch?v=VptAMVgpbP8)
+[![My Chanel](https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/Snake.gif)]
 <br />
 [SnakeGameRepository](https://github.com/Anatolii-Shcherbak/Snake-Java-Game)
 <br />
 <br />
-[![My Chanel](https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/MyGame.gif)](https://www.youtube.com/watch?v=VptAMVgpbP8)
+[![My Chanel](https://github.com/Anatolii-Shcherbak/resources/blob/main/Img/MyGame.gif)]
 <!-- YOUTUBE:END -->
